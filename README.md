@@ -1,5 +1,6 @@
 # Passive_modules
-This is a passive outboard device available in modular synths, which can be manufactured by submitting a Gerber file for PCB to a fabrication company in China.
+This is a passive outboard device for modular synths and can be used a "bare"PCB.
+It can be produced by submitting the Gerber file for PCB to a production company in China.
 
 ## DiodeORLogic
 <img src="https://github.com/ijnekenamay/Passive_modules/raw/main/DiodeORLogic/image2.jpg" width="320">
