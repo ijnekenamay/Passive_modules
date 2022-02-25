@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\u01541\Desktop\nogitfile\DiodeORLogic\DiodeORLogic.sch</source>
+    <date>2022/01/01 2:21:23</date>
+    <tool>Eeschema (5.1.9)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DiodeORLogic.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>INPUT1</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B43511</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B43F06</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>INPUT2</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B45C88</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B45CDA</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>INPUT3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B47C65</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B47CED</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>INPUT4</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B49E92</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B49F50</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>INPUT5</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4B977</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4BA6B</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>INPUT6</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4D2D7</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4D401</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4E992</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>INPUT8</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B509BA</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B50B50</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>INPUT7</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B4E832</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>OUT</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack2" description="Audio Jack, 2 Poles (Mono / TS)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B55AC8</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B578EA</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B591FF</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B5A3A7</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack2">
+      <description>Audio Jack, 2 Poles (Mono / TS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2</field>
+      </fields>
+      <pins>
+        <pin num="S" name="~" type="passive"/>
+        <pin num="T" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="J7" pin="T"/>
+    </net>
+    <net code="2" name="Net-(D8-Pad2)">
+      <node ref="J8" pin="T"/>
+      <node ref="D8" pin="2"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J2" pin="S"/>
+      <node ref="D10" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="J9" pin="S"/>
+      <node ref="J3" pin="S"/>
+      <node ref="J4" pin="S"/>
+      <node ref="J7" pin="S"/>
+      <node ref="J5" pin="S"/>
+      <node ref="J8" pin="S"/>
+      <node ref="J1" pin="S"/>
+      <node ref="J6" pin="S"/>
+    </net>
+    <net code="4" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="J9" pin="T"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="J3" pin="T"/>
+    </net>
+    <net code="7" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="J2" pin="T"/>
+    </net>
+    <net code="8" name="Net-(D4-Pad2)">
+      <node ref="J4" pin="T"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="J1" pin="T"/>
+    </net>
+    <net code="10" name="Net-(D6-Pad2)">
+      <node ref="J6" pin="T"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="J5" pin="T"/>
+    </net>
+  </nets>
+</export>
