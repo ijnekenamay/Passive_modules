@@ -24,8 +24,8 @@ It can be produced by submitting the Gerber file for PCB to a production company
 - This is actually inspired by the Switched Multiple in "Extralife".[MUST BE WATCH](https://youtu.be/l3i5O9jBNbY)
 - This is data for Eurorack format panels only; when submitting to PCB Fab, it is recommended that they be manufactured in aluminum sheet.
 - EASY!
-<img src="https://github.com/ijnekenamay/Passive_modules/raw/main/2hp_sw_mlt/image1.jpg" width="420">
-<img src="https://github.com/ijnekenamay/Passive_modules/raw/main/2hp_sw_mlt/image2.jpg" width="420">
+<img src="https://github.com/ijnekenamay/Passive_modules/raw/main/2hp_sw_mlt/image1-min.jpg" width="420">
+<img src="https://github.com/ijnekenamay/Passive_modules/raw/main/2hp_sw_mlt/image2-min.jpg" width="420">
 
 ## micro passive multiple
 - This is an alternative to stackable cables. It is a PCB with only 3 TIPs and GND connected.
